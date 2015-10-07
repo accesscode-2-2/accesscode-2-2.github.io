@@ -17,5 +17,5 @@
 13 | Oct 01 | 3 | [Intro to product](https://github.com/accesscode-2-2/unit-2/blob/master/lessons/week-3/2015_10_01.md)
 14 | Oct 03 | 3 | [Storage (NSUserDefaults / Core Data)](https://github.com/accesscode-2-2/unit-2/blob/master/lessons/week-3/2015_10_03.md)
 15 | Oct 04 | 3 | [Storage (Core Data)](https://github.com/accesscode-2-2/unit-2/blob/master/lessons/week-3/2015_10_04.md)
-16 | Oct 06 | 4 | [Intro to final project](https://github.com/accesscode-2-2/unit-2/blob/master/lessons/week-4/2015_10_06.md)
-17 | Oct 08 | 4 | [Storage (remote)](https://github.com/accesscode-2-2/unit-2/blob/master/lessons/week-4/2015_10_08.md) / [Nick Barr on Product](https://github.com/accesscode-2-2/unit-2/blob/master/lessons/week-4/Links_from_Nick_Barr's_Talk.md)
+16 | Oct 06 | 4 | [Intro to final project](https://github.com/accesscode-2-2/unit-2/blob/master/lessons/week-4/2015_10_06.md) / [Nick Barr on Product](https://github.com/accesscode-2-2/unit-2/blob/master/lessons/week-4/Links_from_Nick_Barr's_Talk.md)
+17 | Oct 08 | 4 | [Storage (remote)](https://github.com/accesscode-2-2/unit-2/blob/master/lessons/week-4/2015_10_08.md)
